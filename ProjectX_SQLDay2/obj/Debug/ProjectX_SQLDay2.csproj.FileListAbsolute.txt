@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\bin\Debug\ProjectX_SQLDay2.exe.config
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\bin\Debug\ProjectX_SQLDay2.exe
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\bin\Debug\ProjectX_SQLDay2.pdb
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\bin\Debug\ProjectX_DALDay2.dll
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\bin\Debug\ProjectX_DALDay2.pdb
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\obj\Debug\ProjectX_SQLDay2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\obj\Debug\ProjectX_SQLDay2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\obj\Debug\ProjectX_SQLDay2.csproj.CopyComplete
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\obj\Debug\ProjectX_SQLDay2.exe
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_SQLDay2\obj\Debug\ProjectX_SQLDay2.pdb

@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_DALDay2\bin\Debug\ProjectX_DALDay2.dll
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_DALDay2\bin\Debug\ProjectX_DALDay2.pdb
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_DALDay2\obj\Debug\ProjectX_DALDay2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_DALDay2\obj\Debug\ProjectX_DALDay2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_DALDay2\obj\Debug\ProjectX_DALDay2.dll
+C:\Users\hp\source\repos\ProjectX_SQLDay2\ProjectX_DALDay2\obj\Debug\ProjectX_DALDay2.pdb
